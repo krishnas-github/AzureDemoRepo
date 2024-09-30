@@ -1,0 +1,9 @@
+{
+	"name": "AzureDemoCI",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc732df0-0cec-423a-866c-fcf1219587fc",
+		"tenantId": "34208cee-a53b-4ce7-8bdf-ef6d4168f121"
+	}
+}
